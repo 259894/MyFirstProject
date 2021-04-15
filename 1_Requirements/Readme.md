@@ -47,7 +47,8 @@ If you know voltage (E) and current (I) and want to know resistance (R), X-out t
 
 
 ## **SWOT ANALYSIS**
-![Swot analysis](https://user-images.githubusercontent.com/80876216/114896719-30d6cd80-9e2e-11eb-8780-166dc326bc6c.PNG)
+![Swot analysis](https://user-images.githubusercontent.com/80876216/114897124-91fea100-9e2e-11eb-8250-b029397851e8.PNG)
+
 
 
 ## ***4W AND 1H***
