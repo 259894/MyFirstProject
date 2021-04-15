@@ -70,7 +70,7 @@ IEEE Engineering in Medicine and Biology Magazine ( Volume: 17, Issue: 3, May-Ju
 
 ### WHAT
 Ohm’s law states that the voltage across a conductor is directly proportional to the current flowing through it, provided all physical conditions and temperature remain constant.
-![image](https://user-images.githubusercontent.com/82046396/114551646-4e1a6900-9c81-11eb-87d5-1c7c2483461d.png)
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYB6CZsjr9VAAbka5gZNrmZIf-zVsJh3w0eQ&usqp=CAU
 
 ### WHEN
 May-June 1998
