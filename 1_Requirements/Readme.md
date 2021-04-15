@@ -73,7 +73,6 @@ Ohm’s law states that the voltage across a conductor is directly proportional 
 
 ![image](https://user-images.githubusercontent.com/82046396/114551646-4e1a6900-9c81-11eb-87d5-1c7c2483461d.png)
 
-### WHEN
 
 ### WHEN
 May-June 1998
