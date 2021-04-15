@@ -43,9 +43,11 @@ If you know voltage (E) and current (I) and want to know resistance (R), X-out t
 
 ## **Design of our system**
 
+![l and t](https://user-images.githubusercontent.com/80876216/114892916-cff9c600-9e2a-11eb-85a4-6036d4ef2066.PNG)
+
 
 ## **SWOT ANALYSIS**
-![image](https://github.com/259881/Ltts-uttam/blob/1644aab8405906f01e05dcf154fa1c0ec0a586ce/1_Requirements/swot..png)
+![Swot analysis](https://user-images.githubusercontent.com/80876216/114896719-30d6cd80-9e2e-11eb-8780-166dc326bc6c.PNG)
 
 
 ## ***4W AND 1H***
