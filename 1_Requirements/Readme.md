@@ -79,15 +79,36 @@ May-June 1998
 
 In 1827 Georg Simon Ohm discovered some laws relating to the strength of a current in a wire. Ohm found that electricity acts like water in a pipe. Ohm discovered that the current in a circuit is directly proportional to the electric pressure and inversely to the resistance of the conductors.
 
-### ***LOW LEVEL REQUIREMENT***
+## Detail requirements
+## High Level Requirements
+| ID | Description | Status | 
+| ----- | ----- | ------- |
+| HR01 | Calculate the total equivalent series resistance   | IMPLEMENTED | 
+| HR02 | Calculate the total equivalent parallel resistance |  IMPLEMENTED  |
+| HR03 | Calculate the resistance by voltage and current in relation to ohm's law|  IMPLEMENTED  |
+| HR04 | Find the value of resistance based on color code |   IMPLEMENTED  |
+| HR05 | Convert one unit to another i.e Unit conversion|   IMPLEMENTED  |
+
+In the high level requirement, we must have the knowledge of concept value of mutpliers and tolerances associated with each color band.
+
+![color band](https://user-images.githubusercontent.com/80876216/114900431-7ba61480-9e31-11eb-9aa5-de22ed6410bb.PNG)
+
+## Low level Requirements
+| ID | Description | Status | 
+| ----- | ----- | ------- |
+| LR01 | Calculate the total equivalent series resistance of 3 resistors. If less than 3 resistors, fill the corresponding value with zero.  | IMPLEMENTED | 
+| LR02 | Calculate the total equivalent series resistance of more than 3 resistors|  Future |
+| LR03 | Calculate the total equivalent parallel resistance of 3 resistors. If less than 3 resistors, fill the corresponding value with zero.|  IMPLEMENTED  |
+| LR04 | Calculate the resistance by voltage and current in relation to ohm's law. If current input input is given as 0, display invalid input(infinite resistance-open circuit) |   IMPLEMENTED  |
+| LR05 | Find the value of resistance of 5-Band resistor based on color code by taking the input from user. Check input is valid. Take tolerance factor into consideration. |   IMPLEMENTED  |
+| LR06 |  Find the value of resistance of 6 -Band resistor taking temperature coefficient (ppm/K) into consideration|  Future |
+| LR07 | Convert one unit to another:kohm-ohm,Mohm-ohm,ohm-kohm,ohm-Mohm | IMPLEMENTED |
+
 
 In the low level requirement, we must have the knowledge of different color bands of resistors and their individual value associated with it.
 
 
 ![color band of resistors](https://user-images.githubusercontent.com/80876216/114899632-beb3b800-9e30-11eb-8730-c03bbb4fa5d3.PNG)
 
-### ***HIGH LEVEL REQUIREMENT***
 
-In the high level requirement, we must have the knowledge of concept value of mutpliers and tolerances associated with each color band.
 
-![color band](https://user-images.githubusercontent.com/80876216/114900431-7ba61480-9e31-11eb-9aa5-de22ed6410bb.PNG)
