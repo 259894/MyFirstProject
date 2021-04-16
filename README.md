@@ -1,5 +1,11 @@
 # **SDLC Activity Based Learning**
 
+# **Calculation of resistance using different methods**
+
+
+![resistor](https://user-images.githubusercontent.com/80876216/114994445-675a2a00-9eba-11eb-9346-dfe080654570.PNG)
+
+
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/0c7db374168148b4b88b78dcc387597d)](https://www.codacy.com/gh/259894/MyFirstProject/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=259894/MyFirstProject&amp;utm_campaign=Badge_Grade)
 
