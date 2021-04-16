@@ -21,9 +21,9 @@ Folder             | Description
 SF Id. |  Name                  | No.  |  Features                          | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|------------------------|------|------------------------------------|----------------|---------------|-------------|--------------
 `259894` | Varshini H         |1.    |Calculate Total series and parallel Resistance   |  0            |  0         | 7          | 7 
-`259894` | Varshini H              |3.    |Calculate Resistance based on voltage and current(Ohm's law) |  1            |  1          | 3          | 3    
-`259894` | Varshini H              |4.    |Calculate Resistance based on color code |  1            |  1          | 3         | 3     
-`259894` | Varshini H             |4.    |Unit conversion(Kohm-ohm,ohm-Mohm......) |  0            |  0           | 4          | 4    
+`259894` | Varshini H              |2.    |Calculate Resistance based on voltage and current(Ohm's law) |  1            |  1          | 3          | 3    
+`259894` | Varshini H              |3.    |Calculate Resistance based on color code |  1            |  1          | 3         | 3     
+`259894` | Varshini H             |3.    |Unit conversion(Kohm-ohm,ohm-Mohm......) |  0            |  0           | 4          | 4    
 
 ## Challenges Faced 
 
